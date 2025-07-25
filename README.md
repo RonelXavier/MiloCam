@@ -2,6 +2,9 @@
 
 Real-time dog detection with DETR (facebook/detr-resnet-50) + Discord alerts.A
 ---
+<img width="651" height="72" alt="Screenshot 2025-07-24 at 10 11 23 PM" src="https://github.com/user-attachments/assets/fedf0f57-faed-44b8-89da-aed01ad48be9" />
+
+![IMG_3710](https://github.com/user-attachments/assets/d07ab4df-cf7e-45c0-a45c-b9139acd3ba5)
 
 ### Overview
 
