@@ -4,8 +4,6 @@ Real-time dog detection with DETR (facebook/detr-resnet-50) + Discord alerts.
 ---
 <img width="651" height="72" alt="Screenshot 2025-07-24 at 10 11 23 PM" src="https://github.com/user-attachments/assets/fedf0f57-faed-44b8-89da-aed01ad48be9" />
 
-![IMG_3710](https://github.com/user-attachments/assets/d07ab4df-cf7e-45c0-a45c-b9139acd3ba5)
-
 ### Overview
 
 MiloCam is a lightweight computer vision tool that uses [facebook/detr-resnet-50](https://huggingface.co/facebook/detr-resnet-50) from Hugging Face to detect my dog (Milo) via webcam and send a Discord message when he's at the back door.
@@ -49,3 +47,5 @@ MiloCam is a lightweight computer vision tool that uses [facebook/detr-resnet-50
 See `requirements.txt` (generated via `pip freeze`) for exact versions.
 
 ---
+![IMG_3710](https://github.com/user-attachments/assets/d07ab4df-cf7e-45c0-a45c-b9139acd3ba5)
+
